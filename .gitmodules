@@ -1,0 +1,15 @@
+[submodule "services/ECODATA"]
+	path = services/ECODATA
+	url = https://github.com/ecodata-link/ECODATA.git
+[submodule "services/ECODATA-server"]
+	path = services/ECODATA-server
+	url = https://github.com/ecodata-link/ECODATA-server.git
+[submodule "services/ECODATA-client-gestion"]
+	path = services/ECODATA-client-gestion
+	url = https://github.com/ecodata-link/ECODATA-client-gestion.git
+[submodule "services/ECODATA-client-map"]
+	path = services/ECODATA-client-map
+	url = https://github.com/ecodata-link/ECODATA-client-map.git
+[submodule "services/ECODATA-erp"]
+	path = services/ECODATA-erp
+	url = https://github.com/ecodata-link/ECODATA-erp.git
