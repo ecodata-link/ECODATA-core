@@ -1,6 +1,6 @@
-[submodule "services/ECODATA"]
-	path = services/ECODATA
-	url = https://github.com/ecodata-link/ECODATA.git
+[submodule "services/ECODATA-demo"]
+	path = services/ECODATA-demo
+	url = https://github.com/ecodata-link/ECODATA-demo.git
 [submodule "services/ECODATA-server"]
 	path = services/ECODATA-server
 	url = https://github.com/ecodata-link/ECODATA-server.git
